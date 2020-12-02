@@ -17,7 +17,7 @@ status-website:
   name: Hahow for Business
   navbar:
     - title: Status
-      href: /
+      href: /hahow-for-business-upptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
