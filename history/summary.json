@@ -2,6 +2,7 @@
   {
     "name": "Hahow for Business",
     "url": "https://business.hahow.in",
+    "icon": "https://favicons.githubusercontent.com/business.hahow.in",
     "slug": "hahow-for-business",
     "status": "up",
     "uptime": "100.00%",
@@ -9,10 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 203,
-    "timeDay": 331,
-    "timeWeek": 203,
-    "timeMonth": 203,
-    "timeYear": 203
+    "time": 195,
+    "timeDay": 116,
+    "timeWeek": 195,
+    "timeMonth": 195,
+    "timeYear": 195,
+    "dailyMinutesDown": {}
   }
 ]
