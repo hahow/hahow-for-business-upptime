@@ -4,10 +4,10 @@
     "url": "https://business.hahow.in",
     "icon": "https://favicons.githubusercontent.com/business.hahow.in",
     "slug": "hahow-for-business-home",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 241,
@@ -15,16 +15,18 @@
     "timeWeek": 226,
     "timeMonth": 244,
     "timeYear": 241,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-05": 2
+    }
   },
   {
     "name": "Hahow for Business Health",
     "url": "https://hahow.business.hahow.in/health",
     "icon": "https://favicons.githubusercontent.com/hahow.business.hahow.in",
     "slug": "hahow-for-business-health",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 320,
     "timeMonth": 247,
     "timeYear": 244,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-05": 0
+    }
   }
 ]
