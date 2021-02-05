@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/business.hahow.in",
     "slug": "hahow-for-business-home",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 241,
     "timeDay": 126,
     "timeWeek": 226,
     "timeMonth": 244,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2021-02-05": 2
+      "2021-02-05": 11
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://hahow.business.hahow.in/health",
     "icon": "https://favicons.githubusercontent.com/hahow.business.hahow.in",
     "slug": "hahow-for-business-health",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 244,
-    "timeDay": 172,
-    "timeWeek": 320,
-    "timeMonth": 247,
-    "timeYear": 244,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 498,
+    "timeDay": 6919,
+    "timeWeek": 1989,
+    "timeMonth": 666,
+    "timeYear": 498,
     "dailyMinutesDown": {
-      "2021-02-05": 0
+      "2021-02-05": 10
     }
   }
 ]
