@@ -5,8 +5,8 @@ repo: hahow-for-business-upptime # Your Github repository name
 sites:
   - name: Hahow for Business Health
     url: https://hahow.business.hahow.in/health
-  - name: Broken Site 2
-    url: https://thissitedoesnotexist2.com
+  - name: Broken Site 3
+    url: https://thissitedoesnotexist3.com
 assignees: # Users to assign downtime issues (optional)
   - citysite102
 
