@@ -10,35 +10,15 @@
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.93%",
-    "time": 567,
-    "timeDay": 313,
-    "timeWeek": 298,
-    "timeMonth": 860,
-    "timeYear": 567,
+    "time": 562,
+    "timeDay": 292,
+    "timeWeek": 290,
+    "timeMonth": 844,
+    "timeYear": 562,
     "dailyMinutesDown": {
       "2021-02-16": 24,
       "2021-02-09": 34,
       "2021-02-05": 10
-    }
-  },
-  {
-    "name": "Broken Site 4",
-    "url": "https://thissitedoesnotexist4.com",
-    "icon": "https://favicons.githubusercontent.com/thissitedoesnotexist4.com",
-    "slug": "broken-site-4",
-    "status": "down",
-    "uptime": "7.86%",
-    "uptimeDay": "7.86%",
-    "uptimeWeek": "7.86%",
-    "uptimeMonth": "7.86%",
-    "uptimeYear": "7.86%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2021-02-20": 0
     }
   }
 ]
