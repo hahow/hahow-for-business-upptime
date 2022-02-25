@@ -7,6 +7,9 @@ sites:
     url: https://hahow.business.hahow.in/health
 assignees: # Users to assign downtime issues (optional)
   - citysite102
+  - hrs113355
+  - choznerol
+  - amowu
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
