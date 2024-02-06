@@ -4,7 +4,7 @@
     "url": "https://hahow.business.hahow.in/health",
     "icon": "https://icons.duckduckgo.com/ip3/hahow.business.hahow.in.ico",
     "slug": "hahow-for-business-health",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1406,
     "timeYear": 649,
     "dailyMinutesDown": {
+      "2024-02-06": 0,
       "2024-01-19": 22,
       "2024-01-03": 15,
       "2023-12-07": 34,
