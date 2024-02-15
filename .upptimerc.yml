@@ -4,11 +4,12 @@ repo: hahow-for-business-upptime # Your Github repository name
 # Add your sites here
 sites:
   - name: Hahow for Business Health
-    url: https://hahow.business.hahow.in/health
+    url: https://business.hahow.in/health
 assignees: # Users to assign downtime issues (optional)
-  - citysite102
   - hrs113355
-  - choznerol
+  - RongRongTeng
+  - qoosuperman
+  - LanceRabbit
   - amowu
 
 status-website:
