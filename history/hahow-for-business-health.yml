@@ -1,7 +1,7 @@
 url: https://business.hahow.in/health
-status: up
-code: 200
-responseTime: 757
-lastUpdated: 2024-05-30T23:05:22.478Z
+status: down
+code: 504
+responseTime: 15414
+lastUpdated: 2024-05-31T11:06:32.459Z
 startTime: 2020-12-16T02:42:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
