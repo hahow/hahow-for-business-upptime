@@ -33,19 +33,19 @@
     "url": "https://business.hahow.in",
     "icon": "https://icons.duckduckgo.com/ip3/business.hahow.in.ico",
     "slug": "hahow-for-business-landing-page",
-    "status": "down",
-    "uptime": "89.12%",
-    "uptimeDay": "89.12%",
-    "uptimeWeek": "89.12%",
-    "uptimeMonth": "89.12%",
-    "uptimeYear": "89.12%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "39.59%",
+    "uptimeDay": "39.59%",
+    "uptimeWeek": "39.59%",
+    "uptimeMonth": "39.59%",
+    "uptimeYear": "39.59%",
+    "time": 10466,
+    "timeDay": 10466,
+    "timeWeek": 10466,
+    "timeMonth": 10466,
+    "timeYear": 10466,
     "dailyMinutesDown": {
-      "2025-06-03": 0
+      "2025-06-03": 3
     }
   },
   {
