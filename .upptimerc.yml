@@ -5,10 +5,10 @@ repo: hahow-for-business-upptime # Your Github repository name
 sites:
   - name: Hahow for Business Health
     url: https://business.hahow.in/health
-  # - name: Hahow for Business Landing Page
-  #   url: https://business.hahow.in
-  # - name: Hahow for Business Sign-In Page
-  #   url: https://business.hahow.in/users/sign_in
+  - name: Hahow for Business Landing Page
+    url: https://business.hahow.in
+  - name: Hahow for Business Sign-In Page
+    url: https://business.hahow.in/users/sign_in
 assignees: # Users to assign downtime issues (optional)
   - hrs113355
   - qoosuperman
