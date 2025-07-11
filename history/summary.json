@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.74%",
-    "time": 758,
-    "timeDay": 605,
-    "timeWeek": 610,
-    "timeMonth": 618,
+    "time": 756,
+    "timeDay": 403,
+    "timeWeek": 601,
+    "timeMonth": 598,
     "timeYear": 661,
     "dailyMinutesDown": {
       "2025-04-27": 265,
@@ -24,8 +24,7 @@
       "2025-03-20": 16,
       "2025-02-10": 151,
       "2024-07-16": 16,
-      "2024-07-13": 17,
-      "2024-07-11": 41
+      "2024-07-13": 17
     }
   },
   {
@@ -34,16 +33,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/business.hahow.in.ico",
     "slug": "hahow-for-business-landing-page",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
-    "time": 1176,
-    "timeDay": 328,
-    "timeWeek": 553,
-    "timeMonth": 421,
-    "timeYear": 1176,
+    "uptimeYear": "99.93%",
+    "time": 1154,
+    "timeDay": 268,
+    "timeWeek": 554,
+    "timeMonth": 411,
+    "timeYear": 1154,
     "dailyMinutesDown": {
       "2025-06-03": 40
     }
@@ -59,11 +58,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 438,
-    "timeDay": 373,
-    "timeWeek": 385,
-    "timeMonth": 339,
-    "timeYear": 438,
+    "time": 440,
+    "timeDay": 523,
+    "timeWeek": 416,
+    "timeMonth": 347,
+    "timeYear": 440,
     "dailyMinutesDown": {
       "2025-06-03": 51
     }
