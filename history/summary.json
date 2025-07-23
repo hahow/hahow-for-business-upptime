@@ -50,18 +50,19 @@
     "url": "https://business.hahow.in/users/sign_in",
     "icon": "https://icons.duckduckgo.com/ip3/business.hahow.in.ico",
     "slug": "hahow-for-business-sign-in-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 453,
-    "timeDay": 526,
-    "timeWeek": 475,
-    "timeMonth": 436,
-    "timeYear": 453,
+    "time": 460,
+    "timeDay": 658,
+    "timeWeek": 514,
+    "timeMonth": 447,
+    "timeYear": 460,
     "dailyMinutesDown": {
+      "2025-07-23": 0,
       "2025-06-03": 51
     }
   }
