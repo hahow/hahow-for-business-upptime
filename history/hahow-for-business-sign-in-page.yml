@@ -1,7 +1,7 @@
 url: https://business.hahow.in/users/sign_in
-status: down
-code: 500
-responseTime: 15
-lastUpdated: 2025-11-18T11:35:16.171Z
+status: up
+code: 200
+responseTime: 251
+lastUpdated: 2025-11-18T11:49:04.367Z
 startTime: 2025-06-04T02:08:49.616Z
 generator: Upptime <https://github.com/upptime/upptime>
