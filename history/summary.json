@@ -83,19 +83,19 @@
     "url": "https://cooc.campus.hahow.in/",
     "icon": "https://icons.duckduckgo.com/ip3/cooc.campus.hahow.in.ico",
     "slug": "hahow-for-campus-cooc-page",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1523,
-    "timeDay": 1940,
-    "timeWeek": 1523,
-    "timeMonth": 1523,
-    "timeYear": 1523,
+    "status": "up",
+    "uptime": "99.15%",
+    "uptimeDay": "94.73%",
+    "uptimeWeek": "99.15%",
+    "uptimeMonth": "99.15%",
+    "uptimeYear": "99.15%",
+    "time": 1465,
+    "timeDay": 1502,
+    "timeWeek": 1465,
+    "timeMonth": 1465,
+    "timeYear": 1465,
     "dailyMinutesDown": {
-      "2026-05-18": 0
+      "2026-05-18": 76
     }
   }
 ]
